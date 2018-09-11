@@ -51,3 +51,5 @@ git remote remove origin
 git remote add origin git@server.com:myrepo.git
 git push origin master
 ```
+
+## Ура. Все получилось. И пушится и пулится и входит и выходит. Я настроил себе приватный репо. Гудбай BitBucket
