@@ -7,3 +7,9 @@
 ```
 dnf install git-core
 ```
+
+3) добавить пользователя git
+
+```
+sudo adduser git
+```
