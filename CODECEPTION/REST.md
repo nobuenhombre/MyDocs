@@ -40,7 +40,7 @@ codecept generate:suite api
 ```
 
 Создаст внутри папочки tests файл api.suite.yml
-вот примерное содержимое файла codeception.yml
+вот примерное содержимое файла api.suite.yml
 ```
 actor: ApiTester
 modules:
